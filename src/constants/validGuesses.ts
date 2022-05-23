@@ -1,10 +1,10 @@
 import { CONFIG } from './config'
 
 export const VALIDGUESSES = [
-  'abouṯ',
+  'about',
   'after',
-  'leveṟ',
-  'neveṟ',
+  'lever',
+  'never',
   'phone',
   'youth',
   'zebra',
