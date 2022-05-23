@@ -2037,7 +2037,7 @@ export const VALIDGUESSES = [
   'falsa',
   'false',
   'falsi',
-  'FALSO',
+  'falso',
   'fammi',
   'fanee',
   'fanes',
